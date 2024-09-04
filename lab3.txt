@@ -1,6 +1,3 @@
-/******************************************************************************
-to write a c program using structure and enumeration
-*******************************************************************************/
 #include <stdio.h>
 #include <string.h>
 enum designation
